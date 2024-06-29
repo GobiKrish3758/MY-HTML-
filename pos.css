@@ -1,0 +1,22 @@
+div{
+    width: 50px;
+    height: 50px;
+    display: inline;
+}
+#aa{
+    background-color: aqua;
+    position: static;
+}
+#bb{
+    background-color: rgb(9, 255, 0);
+    position: absolute;
+}
+#cc{
+    background-color: rgb(182, 27, 217);
+    position: static;
+}
+#dd{
+    background-color: rgb(231, 235, 15);
+    position: static;
+    margin-left: 50px;
+}

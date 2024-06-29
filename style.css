@@ -1,0 +1,38 @@
+#aa{
+        
+    width: 100px;
+    height: 100px;
+    background-color: sandybrown;
+    border: 10px solid black;
+    
+}
+#bb{
+        
+    width: 100px;
+    height: 100px;
+    background-color: sandybrown;
+    border: 10px solid black;
+    
+}
+#cc{
+        
+    width: 100px;
+    height: 100px;
+    background-color: sandybrown;
+    border: 10px solid black;
+   
+}
+#dd{
+        
+    width: 100px;
+    height: 100px;
+    background-color: sandybrown;
+    border: 10px solid black;
+    
+}
+
+div{
+    margin:40px ;
+    padding: 10px 20px 30px 40px;
+
+}
